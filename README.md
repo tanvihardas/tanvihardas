@@ -38,15 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="GitHub Streak" />
 </p>
 
----
-
-### 🔍 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/tanvihardas/">
-    <img src="https://leetcard.jacoblin.cool/tanvihardas?theme=light&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ---
 
