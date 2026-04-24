@@ -51,5 +51,4 @@
 ### 🌐 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanvihardas/)
-- 💻 [LeetCode](https://leetcode.com/u/tanvihardas/)
 - 📧 tanvihardas.06@gmail.com
