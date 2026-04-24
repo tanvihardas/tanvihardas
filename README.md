@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers" /></a>
   <a href="https://www.linkedin.com/in/tanvihardas/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=blue" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/tanvihardas/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
