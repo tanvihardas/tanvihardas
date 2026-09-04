@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tanvi%20Hardas&fontSize=70&animation=fadeIn" />
   
-  <h3>🚀 BTech CSE Student @ MIT-WPU | DSA & Full Stack Enthusiast</h3>
+  <h3> BTech CSE Student @ MIT-WPU | DSA & Full Stack Enthusiast</h3>
 
   <p align="center">
     <a href="https://github.com/tanvihardas"><img src="https://img.shields.io/github/followers/tanvihardas?label=Follow&style=social" /></a>
@@ -15,8 +15,8 @@
 ### 💫 About Me
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bm96bm96bm96bm96bm96bm96bm96bm96bm96bm96/L1R1tvIM9qZS6InuE0/giphy.gif" align="right" width="350" />
 
-- 🎓 **Education:** 2nd Year Computer Science at **MIT World Peace University**
-- 💻 **Tech Stack:** Specialized in **MERN Stack** and **C++**
+- 🎓 **Education:** 3rd Year Computer Science at **MIT World Peace University**
+- 💻 **Tech Stack:** Specialized in **Swift Programming** and **C++**
 - 🧠 **Problem Solving:** Actively tackling challenges on **LeetCode** and **HackerRank**
 - 🌱 **Growth:** Currently exploring the world of **Open Source** contributions
 - ⚡ **Fun Fact:** I love building scalable web apps that solve real-world problems!
